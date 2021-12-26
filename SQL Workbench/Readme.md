@@ -1,13 +1,21 @@
 -- ============================ 
+
+
 -- DMA Project presentation SQL Queries representation
 -- By Meghana Morey & Preet Mehta
 -- Goal: Study & Improve the business model by identifying insights leading to better decision making
 
+
+
 -- ============================ 
+
+
 -- Data Dictionary:
 -- #6 Tables: Customers, Orders, Products, Sales, Ship, Suppliers
 
 -- ============================ 
+
+
 -- Implementaton of SQL Queries:
 
 -- 1. Avoid * in SELECT statement. Give the name of columns which you require.
